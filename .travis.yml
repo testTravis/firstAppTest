@@ -4,8 +4,6 @@ android:
   components:
     # Update Android SDK Tools
     - build-tools-25.0.2
-    - extra-android-support
-    - extra-android-m2repository
     - tools
     - android-25
     
